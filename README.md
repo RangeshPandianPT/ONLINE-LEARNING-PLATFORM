@@ -11,6 +11,7 @@ DOMAIN: WEB DEVELOPMENT
 DURATION : 4 WEEKS 
 
 MENTOR : NEELA SANTHOS 
+
 ---
 
 # 📚 Edura - Online Learning Platform
